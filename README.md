@@ -1,23 +1,13 @@
-Research Paper Tracker Application
+# 📚 Research Paper Tracker Application
 
+A full-stack application for managing, tracking, and visualizing research papers with a clean UI and powerful backend APIs.
 
-Made by Node.js , Express.js , MongoDB
+---
 
+## 🌐 Frontend
 
+A modern and responsive interface for tracking research papers and visualizing insights through interactive charts.
 
-Installation  Guides
-
-
-npm install to download  node mudules files
-
-
-npm run start to run server
-
-
-.env
-
-
-PORT=****
-
-
-MONGO_URI=****
+### 🛠️ Tech Stack
+- **React.js** – Component-based UI development  
+- **Tailwind CSS**
