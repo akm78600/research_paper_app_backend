@@ -1,13 +1,27 @@
-# 📚 Research Paper Tracker Application
+# 📚 Research Paper Tracker Application – Backend
 
-A full-stack application for managing, tracking, and visualizing research papers with a clean UI and powerful backend APIs.
+A backend application for managing and storing research paper data using a scalable and efficient server-side architecture.
 
 ---
 
-## 🌐 Frontend
+## 🛠️ Tech Stack
+- **Node.js**
+- **Express.js**
+- **MongoDB**
 
-A modern and responsive interface for tracking research papers and visualizing insights through interactive charts.
+---
 
-### 🛠️ Tech Stack
-- **React.js** – Component-based UI development  
-- **Tailwind CSS**
+## ⚙️ Installation & Server Setup
+
+Install dependencies:
+```bash
+npm install
+npm run start
+```
+
+
+## .env file
+- **PORT=****
+- **MONGO_URI=****
+
+
